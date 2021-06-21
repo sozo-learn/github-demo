@@ -1,0 +1,2 @@
+I just set up SSH
+Gonna see if when I push whether I have to do username & pw still
